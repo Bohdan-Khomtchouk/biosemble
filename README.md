@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/9893806/31262867-fd454414-aa12-11e7-8ada-c7867c4103be.png">
 
-##### AI assembly of biological wordnets
+### AI assembly of biological wordnets
 
 </div>
 
